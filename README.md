@@ -61,6 +61,8 @@ Each team will be judged on the following characteristics:
 - Active participation from all team members
 - Effectiveness and enthusiasm of final presentation
 
+On Sunday, the judges will listen to each team's presentation and then the GitHub repositories. The judges will then discuss and collectively award 1st and 2nd place. Each participant will also vote for the "auidence favorite."
+
 ---
 
 # Projects
