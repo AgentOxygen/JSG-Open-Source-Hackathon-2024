@@ -78,7 +78,6 @@ To view the agenda for this hackathon, please visit the [event page](https://www
 # Spirit Characters
 - Charlie Dey - Tony Stark
 - Cameron Cummins - Gurney Halleck
-- Dr. Richard Ketcham - Dr. Strange
 - Dr. Zoltan Sylvester - Mountain Runners
 - Dr. Ben Lasscock - Moo Deng
 - Dr. Manmeet Singh - ? TBD....
@@ -86,4 +85,3 @@ To view the agenda for this hackathon, please visit the [event page](https://www
 - Dr. Sergey Fomel - John McClane
 - Michael Shensky - Spiderman
 - Dr. Brendon Hall - ? TBD....
-- Dr. Toti Larson - ? TBD....
