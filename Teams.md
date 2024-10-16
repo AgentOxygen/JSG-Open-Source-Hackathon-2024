@@ -2,6 +2,8 @@
 
 The first Geoscience Hackathon, organized by the Jackson School of Geosciences and the Open-Souce Program Office at the University of Texas at Austin, took place on **October 4-6, 2024** at the Scholars Lab of the Perry-Castañeda Library. ConocoPhillips and Sandia National Labs sponsored the event. 
 
+![](group-photo.jpg)
+
 The theme of the hackathon was computational reproducibility. Around 20 students split into teams and worked on creative projects reproducing and extending computational results from previously published classic geoscience papers.
 
 A panel of external judges evaluated the results. 
