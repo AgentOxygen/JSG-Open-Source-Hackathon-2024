@@ -8,6 +8,8 @@ The theme of the hackathon was computational reproducibility. Around 20 students
 
 A panel of external judges evaluated the results. 
 
+# Projects
+
 **Team Surfers** 
 - **1st Place Award**
 - Members: Neelarun Mukherjee, Amber Nguyen, and Akshika Rohatgi
@@ -46,3 +48,10 @@ A panel of external judges evaluated the results.
 - Mentor: Sergey Fomel 
 - Reproduced papers: Seismic trace interpolation in the FX domain (Spitz, 1991), Comparisons of interpolation methods (Abma and Kabir, 2005)
 - Repository: https://github.com/ahay/src/tree/master/book/hackathon/soundfx2024
+
+# Judges
+
+- Victor Eijkhout (Texas Advanced Computing Center)
+- Troy Hawkes (Chevron)
+- Zhengxue Li (ConocoPhillips)
+- Nadine Miner (Sandia National Labs)
