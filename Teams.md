@@ -31,7 +31,7 @@ A panel of external judges evaluated the results.
 
 **Team GLT4**
 - **2nd Place Award**
-- Members: Zulkuf Azizoglu and Fehmi Özbayrak
+- Members: Zulkuf Azizoglu, Fehmi Özbayrak, and Çınar Turhan
 - Mentor: Zoltán Sylvester
 - Reproduced papers:  Influence of texture on porosity and permeability of unconsolidated sand (Beard and Weyl, 1973), Quantitative textural analysis (Taylor et al., 2022)
 - Repository: https://github.com/fozba/glt4_geoscience_hackathon
